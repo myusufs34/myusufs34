@@ -22,8 +22,8 @@ pacing — 30 fps → 60 fps, or 60 → 120.
 | **Capture** | Windows Graphics Capture (per-window) and DXGI Desktop Duplication |
 | **App** | CustomTkinter GUI, live measured metrics, 1×/2×/3× modes, hotkey toggle |
 
-> Demo video, benchmarks and downloads: **[project repository](#)**
-> *(replace with your project repo link)*
+> Demo video, benchmarks and downloads: 
+
 
 
 ## The constraint that shaped this project
