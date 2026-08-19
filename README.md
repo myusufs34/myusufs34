@@ -1,4 +1,4 @@
-# Muhammed Yusuf
+# M. Yusuf Sağlam
 
 Building a real-time **frame generation** system for games — training the model,
 distilling it, and shipping it as a desktop app.
@@ -22,8 +22,8 @@ pacing — 30 fps → 60 fps, or 60 → 120.
 | **Capture** | Windows Graphics Capture (per-window) and DXGI Desktop Duplication |
 | **App** | CustomTkinter GUI, live measured metrics, 1×/2×/3× modes, hotkey toggle |
 
-> Demo video, benchmarks and downloads: 
-
+> Demo video, benchmarks and downloads are in my issue, you can see one here: 
+https://github.com/user-attachments/assets/85dbcd4d-45a3-4dfd-ba2b-77a770402c71
 
 
 ## The constraint that shaped this project
@@ -107,9 +107,8 @@ cheaply and honestly:
 `CustomTkinter` · `PyInstaller` · `Windows Graphics Capture` / `DXGI`
 
 
-*Note: this project is source-available for review on request but not open
-source. Benchmarks, methodology, and builds are published; model weights and
-training code are not.*
+*Note: this project is not open source. Benchmarks, methodology, and builds are published;
+model weights and training code are not.*
 
 -- You can contact me from;
 📫 "xmyusufs34@gmail.com"
