@@ -1,7 +1,7 @@
 # M. Yusuf Sağlam
 
 Building a real-time **frame generation** system for games — training the model,
-distilling it, and shipping it as a desktop app.
+distilling it, and shipping it as a desktop app. The news on this project are going to be in the 'Frame Generation' repositorie.
 
 Currently focused on: optical-flow based video frame interpolation under
 **severe hardware constraints**.
