@@ -8,7 +8,7 @@ Currently focused on: optical-flow based video frame interpolation under
 
 ---
 
-## RDR2 Frame Generation
+## Frame Generation
 
 A desktop application that captures a running game window, generates
 intermediate frames with a neural network, and presents them with frame
